@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "myFirstAzureWebApp", "myFirstAzureWebApp\myFirstAzureWebApp.csproj", "{76233411-B17C-4D0E-B6C1-2D851CC70AA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAppDemo", "FunctionAppDemo\FunctionAppDemo.csproj", "{35CA3E32-F31D-4DC3-99CE-62E4D6CA7896}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionAppDemo", "FunctionAppDemo\FunctionAppDemo.csproj", "{35CA3E32-F31D-4DC3-99CE-62E4D6CA7896}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
